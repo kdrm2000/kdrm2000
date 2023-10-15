@@ -4,9 +4,6 @@
 I am currently work on C++ projects.<br>I am an HND student at Esoft Metro Campus.<br>I am hoping to collaborate with software engineering companies.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kdrm2000) 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 # 📊 GitHub Stats:
