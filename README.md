@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently work on C++ projects.<br>I am an HND student at Esoft Metro Campus.<br>I am hoping to collaborate with software engineering companies.
+I am currently work on Data analysis projects.<br>I am an HND student at Esoft Metro Campus.<br>I am hoping to collaborate with software engineering companies.
 
 
 # 💻 Tech Stack:
